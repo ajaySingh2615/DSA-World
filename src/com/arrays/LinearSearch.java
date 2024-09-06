@@ -9,7 +9,7 @@ public class LinearSearch {
         if(result == -1){
             System.out.println("Not Found");
         }else{
-            System.out.println("Element is found at index " + (result + 1));x
+            System.out.println("Element is found at index " + (result + 1));
         }
     }
 
